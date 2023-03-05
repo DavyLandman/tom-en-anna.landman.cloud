@@ -32,6 +32,15 @@ jobs:
 
       - name: build
         run: hugo --minify
+      
+      - name: Compress Images
+        uses: calibreapp/image-actions@main
+        with:
+          compressOnly: true
+          jpegQuality: '80'
+          jpegProgressive: true
+          pngQuality: '90'
+          webpQuality: '80'
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
