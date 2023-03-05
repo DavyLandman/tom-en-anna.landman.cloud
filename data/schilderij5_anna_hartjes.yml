@@ -1,0 +1,8 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Anna's Hartjes"
+content: |
+  Omdat ik de natuur lief vind heb ik wat moois gemaakt. Je zie mooie vlinders en sterren.
+  <br/><br/>
+  Als je het niet kan betalen is het gratis. Als je het wel kan betalen dan graag 3 euro.
+image: "images/schilderijen/anna-sterretjes-en-vlinders.jpg"

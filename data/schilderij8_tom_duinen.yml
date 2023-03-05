@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-right image-position-center onscroll-image-fade-in"
+title : "Tom's Duinen"
+content: |
+  Ik heb dit gemaakt omdat ik het fijn vind om door de duinen te rollen. Ik wil graag dat ze blijven staan.
+  <br /><br />
+  Deze is gratis.
+
+image: "images/schilderijen/tom-duinen.jpg"

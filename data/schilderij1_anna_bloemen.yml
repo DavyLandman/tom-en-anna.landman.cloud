@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Anna's Bloemen"
+content: |
+  In de natuur vind je mooie bloemen! Anna (4 jaar oud) is heel blij met paarse bloemen.
+  <br/><br/>
+  Als je het niet kan betalen kost het 0 centen. Als je het wel kan betalen dan graag 1 euro.
+image: "images/schilderijen/anna-bloemen.jpg"

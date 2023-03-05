@@ -1,0 +1,8 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Anna's Regenboog"
+content: |
+  Regenboog is lief, ik hoop dat ie altijd kan blijven bestaan.
+  <br /><br/>
+  Gratis voor mensen met weinig geld. 
+image: "images/schilderijen/anna-regenboog.jpg"

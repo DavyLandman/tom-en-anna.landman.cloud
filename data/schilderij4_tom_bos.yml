@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-right image-position-center onscroll-image-fade-in"
+title : "Tom's Bos"
+content: |
+  Ik heb dit gemaakt omdat ik het leuk vind om dingen in het bos te zoeken en leuk vind als de vogeltjes fluiten.
+  <br /><br/>
+  Het kost 5 cent.
+
+image: "images/schilderijen/tom-bos.jpg"

@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-right image-position-center onscroll-image-fade-in"
+title : "Tom's Verzinsel"
+content: |
+  ik hep dit gemaakt om dat ik het leuk vond.
+  <br /><br/>
+  Het kost 1 euro 30.
+
+
+
+image: "images/schilderijen/tom-verzinsel.jpg"

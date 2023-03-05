@@ -1,0 +1,9 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Tom en Anna voor de Natuur"
+subtitle: |
+  Betere natuur voor iedereen!
+content : |
+  Om ervoor te zorgen dat er meer aandacht voor <strong>natuur</strong> is, maken wij deze schilderijen.
+image : "images/schilderijen/tom-en-anna-allemaal.jpg"
+

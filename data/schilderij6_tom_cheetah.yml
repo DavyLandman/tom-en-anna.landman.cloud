@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-right image-position-center onscroll-image-fade-in"
+title : "Tom's Cheetah"
+content: |
+  Ik heb dit dier gemaakt omdat het mijn lievelingsdier is. Ik wil graag dat dit dier niet uitsterft. Ze moeten genoeg te eten hebben, dat kan als de andere dieren ook blijven leven.
+  <br /> <br />
+  De prijs is 2 euro.
+
+image: "images/schilderijen/tom-cheetah.jpg"

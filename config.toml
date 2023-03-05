@@ -1,0 +1,17 @@
+baseURL = 'https://tom-en-anna.landman.cloud/'
+#baseURL = "/"
+
+languageCode = 'nl-nl'
+title = 'Tom en Anna '
+theme = "hugo-story"
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+publishDir = "public"
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[build]
+    writeStats = true

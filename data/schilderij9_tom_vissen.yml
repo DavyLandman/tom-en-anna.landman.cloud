@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title : "Tom's Vissen"
+content: |
+  Ik heb dit gemaakt omdat ik het leuk vind om als ik kan duiken om vissen te zien. Kunnen jullie ze laten leven?
+  <br /><br />
+  Deze kost 1 euro 55.
+
+image: "images/schilderijen/tom-vissen-in-water.jpg"
